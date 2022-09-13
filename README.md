@@ -27,13 +27,18 @@ sudo raspi-config nonint do_i2c 0
 ##### Devices
 
 * Raspberry Pi 4 - 2GB - nano1
- * BME-680
- * BME-688
- * SGP-30
- * MICS-6814
- * PA-1010D GPS
- * Breakout Garden I2C
+  * BME-680
+  * BME-688
+  * SGP-30
+  * MICS-6814
+  * PA-1010D GPS
+  * Breakout Garden I2C
 
 * Raspberry Pi 4 - 2GB - nano2
- * BME-688
- * Breakout Garden I2C
+  * BME-688
+  * Breakout Garden I2C
+
+
+#### References
+
+* https://www.flipstack.dev/
