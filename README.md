@@ -12,6 +12,8 @@ Pimoroni Breakout Garden with Raspberry Pi 4 - 2GB RAM - Apache Pulsar - Python 
 * https://shop.pimoroni.com/products/pa1010d-gps-breakout?variant=32257258881107
 * https://shop.pimoroni.com/products/bme688-breakout?variant=39336951709779
 * https://github.com/pimoroni/pa1010d-python
+* https://github.com/pimoroni/bme680-python
+* https://github.com/BoschSensortec/BME68x-Sensor-API
 
 #### Setup
 
